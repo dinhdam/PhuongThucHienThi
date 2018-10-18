@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="AlertHello:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6fc60f1-33f3-4c84-ab69-c3ecf9afba5c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ processConfirm" beforeDir="false" afterPath="$PROJECT_DIR$/../ processConfirm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ballgame" beforeDir="false" afterPath="$PROJECT_DIR$/../Ballgame" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dam(c1,c2,c3,c4).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Damc08g1(c1,c2,c3,c4).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML" beforeDir="false" afterPath="$PROJECT_DIR$/../HTML" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../array" beforeDir="false" afterPath="$PROJECT_DIR$/../array" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapchuoi" beforeDir="false" afterPath="$PROJECT_DIR$/../baitapchuoi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapdieukien" beforeDir="false" afterPath="$PROJECT_DIR$/../baitapdieukien" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitaptiente" beforeDir="false" afterPath="$PROJECT_DIR$/../baitaptiente" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bientoantu" beforeDir="false" afterPath="$PROJECT_DIR$/../bientoantu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cacdoituongthongdung" beforeDir="false" afterPath="$PROJECT_DIR$/../cacdoituongthongdung" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cau1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cau3.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cau4.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cocaro" beforeDir="false" afterPath="$PROJECT_DIR$/../cocaro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../console.log" beforeDir="false" afterPath="$PROJECT_DIR$/../console.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../console_log" beforeDir="false" afterPath="$PROJECT_DIR$/../console_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dieukien" beforeDir="false" afterPath="$PROJECT_DIR$/../dieukien" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dieukien2" beforeDir="false" afterPath="$PROJECT_DIR$/../dieukien2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../document" beforeDir="false" afterPath="$PROJECT_DIR$/../document" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flashlamp" beforeDir="false" afterPath="$PROJECT_DIR$/../flashlamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game" beforeDir="false" afterPath="$PROJECT_DIR$/../game" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../giatritrongmang" beforeDir="false" afterPath="$PROJECT_DIR$/../giatritrongmang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../goiham" beforeDir="false" afterPath="$PROJECT_DIR$/../goiham" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../goodfastcheep" beforeDir="false" afterPath="$PROJECT_DIR$/../goodfastcheep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ham_alert" beforeDir="false" afterPath="$PROJECT_DIR$/../ham_alert" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hamcuamang" beforeDir="false" afterPath="$PROJECT_DIR$/../hamcuamang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello" beforeDir="false" afterPath="$PROJECT_DIR$/../hello" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiemtratu" beforeDir="false" afterPath="$PROJECT_DIR$/../kiemtratu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laptrinhhuongdoituong" beforeDir="false" afterPath="$PROJECT_DIR$/../laptrinhhuongdoituong" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luyentapham" beforeDir="false" afterPath="$PROJECT_DIR$/../luyentapham" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luyentapmang" beforeDir="false" afterPath="$PROJECT_DIR$/../luyentapmang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luyentapphanmang" beforeDir="false" afterPath="$PROJECT_DIR$/../luyentapphanmang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../motathuattoan" beforeDir="false" afterPath="$PROJECT_DIR$/../motathuattoan" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nguyento" beforeDir="false" afterPath="$PROJECT_DIR$/../nguyento" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reverse" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simpleServlet/src/Servlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../simpleServlet/src/Servlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sudungtoantu" beforeDir="false" afterPath="$PROJECT_DIR$/../sudungtoantu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tape" beforeDir="false" afterPath="$PROJECT_DIR$/../tape" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuattoan" beforeDir="false" afterPath="$PROJECT_DIR$/../thuattoan" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tic tac toe/baitap1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../tic tac toe/baitap1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tictactoe" beforeDir="false" afterPath="$PROJECT_DIR$/../tictactoe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../variable value" beforeDir="false" afterPath="$PROJECT_DIR$/../variable value" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vonglap" beforeDir="false" afterPath="$PROJECT_DIR$/../vonglap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vonglapfor" beforeDir="false" afterPath="$PROJECT_DIR$/../vonglapfor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vonglapfor2" beforeDir="false" afterPath="$PROJECT_DIR$/../vonglapfor2" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-476866640">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+          <entry key="jsp" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+          <entry key="JSP" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="72" />
+          <entry key="jsp" value="46" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="72" />
+          <entry key="JSP" value="46" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/simple_login.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/simple_login.java" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="995" />
+    <option name="y" value="50" />
+    <option name="width" value="710" />
+    <option name="height" value="765" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AlertHello" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlertHello" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539857444122" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.34" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.34" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <deployment>
+        <artifact name="AlertHello:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_34_AlertHello" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="63100" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="AlertHello:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6fc60f1-33f3-4c84-ab69-c3ecf9afba5c" name="Default Changelist" comment="" />
+      <created>1539845363960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539845363960</updated>
+      <workItem from="1539845369289" duration="1859000" />
+      <workItem from="1539847413138" duration="1664000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3523000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49716714" visible="true" weight="0.16308725" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.5028329" side_tool="true" visible="true" weight="0.16308725" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simple_login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
